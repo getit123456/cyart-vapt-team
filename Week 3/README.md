@@ -36,8 +36,6 @@ All activities were performed in a controlled laboratory environment for educati
 - Root-level shell access verification
 - Documentation of exploit workflow
 
-📁 Workflow: `Workflow/Task1_Advanced_Exploitation.md`  
-📸 Screenshots: `Screenshots/Task1/`
 
 ---
 
@@ -47,9 +45,6 @@ All activities were performed in a controlled laboratory environment for educati
 - Reflected XSS exploitation
 - Burp Suite request interception and session analysis
 - Vulnerability documentation and impact analysis
-
-📁 Workflow: `Workflow/Task2_Web_App_Testing.md`  
-📸 Screenshots: `Screenshots/Task2/`
 
 ---
 
@@ -61,9 +56,6 @@ All activities were performed in a controlled laboratory environment for educati
 - Network attack path visualization using Draw.io
 - Non-technical management briefing
 
-📁 Workflow: `Workflow/Task3_Reporting_Practice.md`  
-📸 Screenshots: `Screenshots/Task3/`
-
 ---
 
 ### Task 4: Post-Exploitation & Evidence Collection
@@ -72,10 +64,6 @@ All activities were performed in a controlled laboratory environment for educati
 - Evidence preservation and integrity verification
 - SHA-256 hashing for chain-of-custody
 - Ethical cleanup and session termination
-
-📁 Workflow: `Workflow/Task4_Post_Exploitation.md`  
-📸 Screenshots: `Screenshots/Task4/`  
-📁 Evidence: `Evidence/`
 
 ---
 
@@ -87,10 +75,6 @@ All activities were performed in a controlled laboratory environment for educati
 - Remediation recommendations
 - Verification and risk reduction
 - Professional PTES report and management summary
-
-📁 Workflow: `Workflow/Task5_Capstone_VAPT.md`  
-📸 Screenshots: `Screenshots/Task5/`  
-📄 Report: `Reports/Task5_Capstone_PTES_Report.pdf`
 
 ---
 
@@ -118,6 +102,6 @@ This project was conducted strictly for educational purposes in a controlled env
 ---
 
 ## Author
-Karthi M  
+Karthik M
 Week 3 – Cybersecurity Practical Training
 
