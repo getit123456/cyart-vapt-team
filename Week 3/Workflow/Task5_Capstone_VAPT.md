@@ -45,3 +45,10 @@ A follow-up scan was conceptually performed to validate remediation effectivenes
 ## Conclusion
 The capstone project demonstrated a complete VAPT lifecycle, from discovery to
 reporting, reflecting real-world penetration testing workflows.
+
+## Screenshots
+
+![Nmap Scan](../Screenshots/Task1/nmap_full_scan.png)
+![Metasploit Exploit](../Screenshots/Task1/metasploit_exploit.png)
+![Post Exploitation](../Screenshots/Task4/root_access.png)
+![Wireshark Evidence](../Screenshots/Task4/wireshark_capture.png)

@@ -43,10 +43,9 @@ decision-making, enabling informed risk management.
 
 ## Screenshots
 
-![Executive Summary](../screenshots_3/executive_summary.png)
+![Executive Summary](../Screenshots/Task3/executive_summary.png)
+![Findings Table](../Screenshots/Task3/findings_table.png)
+![Attack Path Diagram](../Screenshots/Task3/attack_path_diagram.png)
+![Management Summary](../Screenshots/Task3/management_summary.png)
 
-![Findings Table](../screenshots_3/findings_table.png)
 
-![Attack Path Diagram](../screenshots_3/attack_path_diagram.png)
-
-![Management Summary](../screenshots_3/management_summary.png)
