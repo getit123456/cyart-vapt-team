@@ -49,3 +49,14 @@ were observed in plaintext, indicating insecure session handling.
 ## Conclusion
 The application suffers from multiple OWASP Top 10 vulnerabilities caused by
 improper input validation and insecure session management.
+## Screenshots
+
+![DVWA Dashboard](../screenshots_3/dvwa_dashboard.png)
+
+![DVWA Security Low](../screenshots_3/security_low.png)
+
+![SQL Injection Success](../screenshots_3/sql_injection_success.png)
+
+![Reflected XSS](../screenshots_3/xss_reflected.png)
+
+![Burp Suite Intercept](../screenshots_3/burp_intercept.png)
